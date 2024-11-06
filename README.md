@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhiblll
-- 👀 I’m interested in Duking
+- 👀 I’m interested in Dunking
 - 🌱 I’m currently learning ML
 I AM A UNDERGRADUATE STUDENT IN SICHUAN UNIVERSITY, CHENGDU, CHINA
 <!---
